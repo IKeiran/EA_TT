@@ -1,0 +1,1 @@
+Test task for checking Robot Framework and me compartability:)
